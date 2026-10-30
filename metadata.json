@@ -1,0 +1,6 @@
+{
+  "name": "LedgerCore Workspace",
+  "description": "Cloud-synchronized business database management system with real-time data visualization, employee directory, financial reports, project tracking, and role-based access permissions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
